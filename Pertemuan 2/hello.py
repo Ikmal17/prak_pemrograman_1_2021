@@ -1,0 +1,1 @@
+print("praktek yang menyenangkan")
