@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProgramDataMahasiswa {
+public class Tugas8 {
     public static void main(String[] args) {
         String[] namaMhs = new String[1000];
         double[] ipk = new double[1000];
