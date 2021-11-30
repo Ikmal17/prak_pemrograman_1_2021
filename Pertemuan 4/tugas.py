@@ -4,16 +4,16 @@ print("=========== INPUT FUNCTION ============")
 print("")
 
 # data yang dimasukkan pasti string
-Nama = input("masukan nama lengkap = ")
-Kelas = input("masukkan kelas anda = ")
-programStudi = input("masukan nama program studi = ")
+Nama = input("Masukan nama lengkap = ")
+Kelas = input("Masukkan kelas anda = ")
+programStudi = input("Masukan nama program studi = ")
 
 # jika ingin mengambil integer, maka
-beratBadan = float(input("masukan berat badan anda = "))
-tinggiBadan = int(input("masukan tinggi badan anda = "))
+beratBadan = float(input("Masukan berat badan anda = "))
+tinggiBadan = int(input("Masukan tinggi badan anda = "))
 
 # jika ingin mengambil boolean
-biner = bool(int(input("masukan data boolean = ")))
+biner = bool(int(input("Masukan data boolean = ")))
 
 print("Nama saya adalah ", Nama, ", type = ", type (Nama))
 print("Saya berada di kelas ", Kelas, ", type = ", type (Kelas))
@@ -269,3 +269,7 @@ print('baz : ', baz)
 print('102 in baz        : ', 102 in baz)
 print('102not in baz     : ', 102 not in baz)
 print('35 not in baz     : ', 35 not in baz)
+
+print('\n')
+
+print("===== ALHAMDULILLAH SELESAI =====")
