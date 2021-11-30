@@ -115,7 +115,7 @@ public class operator {
 
          System.out.println("");
 
-         System.out.println("4. Logika (&&, //, !)");
+         System.out.println("4. Logika (&&, ||, !)");
 
         int totalBayar1 = 150000;
         boolean shoopingCard1 = false;
