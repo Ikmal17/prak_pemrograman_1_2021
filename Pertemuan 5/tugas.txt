@@ -1,0 +1,8 @@
+Buatlah program sederhana yang dapat mengetahui seseorang tersebut memiliki predikat kelulusan :
+a. Dengan pujian tertinggi (Summa Cumlaude): IPK >= 3.51 dan lulus dalam <= 4 tahun
+b. Dengan pujian (Cumlaude); IPK >= 3.51
+c. Sangat memuaskan : IPK >= 3.01 dan IPK < 3.51
+d. Memuaskan : IPK >= 2.76 dan IPK < 3.01
+e. Cukup : IPK >= 2.00 dan IPK , 2.76
+f. Tidak lulus : IPK < 2.00
+g. Tidak valid : IPK > 4 atau IPK < 0
