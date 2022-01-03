@@ -1,0 +1,19 @@
+Suatu sistem informasi akademik yang dapat memanajemen data mahasiswa yang berupa 
+1. NIM
+2. Nama
+3. Program Studi
+4. Fakultas
+5. Semester
+6. IPK
+
+dan sistem itu dapat
+1. Lihat data
+2. Tambah data
+3. Cari data
+4. Edit Nama
+5. Edit Prodi
+6. Edit Fakultas
+7. Edit Semester
+8. Rerata IPK
+9. Hapus data
+10.Keluar
